@@ -1,6 +1,6 @@
 public class PrimeCheck {
     public static void main(String[] args) {
-        int num = 29; // Example number
+        int num = 5;
         boolean isPrime = true;
 
         if (num <= 1) {
